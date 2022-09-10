@@ -1,3 +1,4 @@
+#Time O(N) Space O(1)
 import math
 
 def smallest_subarray_sum(S, arr):
